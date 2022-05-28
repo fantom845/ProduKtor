@@ -9,3 +9,9 @@ The aim is to build a predictive model and find out the sales of each product at
 - Feature engineering to extract the correct features for the model
 - Build a regression model to predict the outlet sales
 - Recommend price changes for optimising future sales
+- Implement 
+
+##Approach used:
+- 
+- Use simple linear regression to achieve results
+- Design WebApp using Flask
