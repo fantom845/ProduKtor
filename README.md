@@ -11,7 +11,7 @@ The aim is to build a predictive model and find out the sales of each product at
 - Recommend price changes for optimising future sales
 - Implement 
 
-##Approach used:
-- 
-- Use simple linear regression to achieve results
-- Design WebApp using Flask
+## Approach used:
+- Selected BigMart Data kaggle dataset as it satisfies all criterions
+- Used simple linear regression to achieve final results
+- Designed WebApp using Flask for easier access for clients
